@@ -1,4 +1,4 @@
-# mlops-A3
+# MLOps-assignment-3 : End-to-End Pipeline
 | Metric             | Original Sklearn Model | Quantized Model |
 |--------------------|------------------------|-----------------|
 | R² Score           | 0.6053                 | 0.6051          |
